@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "title": "Omar Mohamed Ryad",
+      "body": "Front-End Engineer",
+      "id": "1"
+    },
+    {
+      "title": "Dinamo MEA Software",
+      "body": "Dinamo MEA Software",
+      "id": "2"
+    },
+    {
+      "title": "Dinamo MEA 1",
+      "body": "Dinamo MEA 1",
+      "id": "1"
+    },
+    {
+      "title": "Dinamo MEA 2",
+      "body": "Dinamo MEA 2",
+      "id": "2"
+    },
+    {
+      "title": "Dinamo MEA 3",
+      "body": "Dinamo MEA 3",
+      "id": "3"
+    },
+    {
+      "title": "Dinamo MEA 4",
+      "body": "Dinamo MEA 4",
+      "id": "4"
+    }
+  ]
+}
