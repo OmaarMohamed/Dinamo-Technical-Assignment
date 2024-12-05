@@ -1,11 +1,7 @@
-// Dinamo MEA Technical Assignment + React TypeScript CRUD Application with JSONPlaceholder API
-This project is a simple web application built using React and TypeScript that demonstrates my ability to interact with a public API, display data in a UI, and handle common operations like fetching, displaying, and manipulating data. The application integrates with the JSONPlaceholder API and uses Ant Design for the UI framework.
+# Dinamo MEA Technical Assignment + React TypeScript CRUD Application with JSONPlaceholder API
+# This project is a simple web application built using React and TypeScript that demonstrates my ability to interact with a public API, display data in a UI, and handle common operations like fetching, displaying, and manipulating data. The application integrates with the JSONPlaceholder API and uses Ant Design for the UI framework.
 
-Task Overview
-The project consists of the following tasks:
-
-Core Tasks (Must-Have)
-Fetch and Display Data
+# Fetch and Display Data:
 
 Fetched data from the /posts endpoint of the JSONPlaceholder API in => PostsPage Component.
 Displayed the fetched data in a table using Ant Design’s Table component in => PostsTable Component.
@@ -20,7 +16,7 @@ Implemented basic error handling for API requests.
 Used Ant Design’s notification component to display errors to the user.
 TypeScript Usage
 
-Optional Tasks (Bonus)::
+## Optional Tasks (Bonus):
 
 1- Defined TypeScript interfaces/types for the fetched data.
 Ensured type safety and followed best practices.
